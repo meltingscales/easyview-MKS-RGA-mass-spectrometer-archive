@@ -1,0 +1,1 @@
+start %~dp0\xpsp2.exe

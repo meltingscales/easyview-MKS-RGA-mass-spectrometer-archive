@@ -1,0 +1,5 @@
+[Autorun]
+OPEN=autorun.exe
+
+[Autorun.x86]
+OPEN=autorun.exe
