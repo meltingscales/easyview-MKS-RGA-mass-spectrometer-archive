@@ -1,5 +1,11 @@
 https://github.com/HenryFBP/easyview-MKS-RGA-mass-spectrometer-archive
 
+## What is this?
+
+Archive of some god-knows-how-old Mass Spectrometer software a friend needed burned to a non-dying CD.
+
+## Info
+
 See [README.txt](/README.txt).
 
 I used `choco install cdrtfe` to install some CD imaging software to make a .ISO file from this git repo.
