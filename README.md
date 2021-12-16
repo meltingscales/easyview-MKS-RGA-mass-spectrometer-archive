@@ -1,5 +1,7 @@
 https://github.com/HenryFBP/easyview-MKS-RGA-mass-spectrometer-archive
 
+https://archive.org/details/easyview-MKS-RGA-mass-spectrometer-archive-master
+
 ## What is this?
 
 Archive of some god-knows-how-old Mass Spectrometer software a friend needed burned to a non-dying CD.
