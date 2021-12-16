@@ -1,6 +1,6 @@
 https://github.com/HenryFBP/easyview-MKS-RGA-mass-spectrometer-archive
 
-https://archive.org/details/easyview-MKS-RGA-mass-spectrometer-archive-master
+https://archive.org/details/easyview-MKS-RGA-mass-spectrometer-archive
 
 ## What is this?
 
