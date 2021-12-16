@@ -16,6 +16,13 @@ Read [Easy View + eVision User Manual SP104018.102.pdf](/extra/pdfs/Easy%20View%
 
 ## Working install codes
 
+Found via disassembly, near memory address `0x0047ab5c` in `Software/adminSetup.exe`, using `cutter` and `radare2`. 
+
 - easyview
 - custom
 - toollink
+- diamond
+- mainsecs
+- ibmbtv
+- mksprod
+- procprof
